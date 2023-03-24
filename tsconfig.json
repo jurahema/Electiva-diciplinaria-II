@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "módulo": "commonjs",
+    "declaración": verdadero,
+    "removeComments": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": verdadero,
+    "allowSyntheticDefaultImports": true,
+    "target": "es2017",
+    "sourceMap": true,
+    "outDir": "./dist",
+    "baseUrl": "./",
+    "incremental": verdadero,
+    "skipLibCheck": true,
+    "strictNullChecks": false,
+    "noImplicitAny": false,
+    "strictBindCallApply": false,
+    "forceConsistenteCasingInFileNames": false,
+    "noFallthroughCasesInSwitch": false
+  }
+}
