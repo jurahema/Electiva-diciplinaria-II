@@ -1,0 +1,9 @@
+{
+  "moduleFileExtensions": ["js", "json", "ts"],
+  "rootDir": ".",
+  "testEnvironment": "nodo",
+  "testRegex": ".e2e-spec.ts$",
+  "transformar": {
+    "^.+\\. (t|j)s$": "ts-jest"
+  }
+}
